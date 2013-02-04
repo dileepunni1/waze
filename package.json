@@ -1,0 +1,30 @@
+{
+  "name": "waze",
+  "description": "waze",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "2.x",
+    "handlebars": "*",
+    "orientdb": "*"
+  },
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dileepunni1/waze.git"
+  },
+  "keywords": [
+    "nodejs",
+    "OrientDB",
+    "emberjs",
+    "handlebars"
+  ],
+  "author": "d.george",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "45acaff03b00b0822b0978d4e9d8f7be4929690a"
+}
